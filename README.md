@@ -1,12 +1,5 @@
-Hi 👋 My name is Nyx
+Hi 👋
 ====================
-
-Dev
----
-
-Developer
-
-* 🌍  I'm based in Earth
 
 ### Skills
 
