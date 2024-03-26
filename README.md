@@ -18,9 +18,7 @@ Hi 👋
 
 <b>My GitHub Stats</b>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyx6965&show_icons=true&locale=en&layout=compact" alt="nyx6965" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyx6965&show_icons=true&locale=en" alt="nyx6965" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyx6965&" alt="nyx6965" /></p>
