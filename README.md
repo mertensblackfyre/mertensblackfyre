@@ -18,7 +18,11 @@ Hi 👋
 
 <b>My GitHub Stats</b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyx6965&show_icons=true&locale=en&layout=compact" alt="nyx6965" /></p>
+<a href="http://www.github.com/nyx6965"><img src="https://github-readme-stats.vercel.app/api?username=nyx6965&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nyx6965's GitHub stats" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyx6965&show_icons=true&locale=en" alt="nyx6965" /></p>
+<a href="https://github.com/nyx6965" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyx6965&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/nyx6965/http" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nyx6965&repo=http&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
