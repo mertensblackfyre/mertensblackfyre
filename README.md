@@ -1,14 +1,5 @@
 Hi 👋
 ====================
-
-### Discord:
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/950269416224989224)](https://discord.com/users/950269416224989224)
-
-
-
-<b>My GitHub Stats</b>
-
 <table>
     <tr>
         <td>
