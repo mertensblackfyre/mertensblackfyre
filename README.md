@@ -1,14 +1,21 @@
-Hi 👋
-====================
-<table>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=mertensblackfyre&amp;show_icons=true&amp;bg_color=0d1117&amp;text_color=f8e3a1&amp;title_color=f9826c&amp;icon_color=6e40c9&hide_border=true"
-                alt='profile stats'>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertensblackfyre&amp;layout=compact&amp;bg_color=0d1117&amp;text_color=f8e3a1&amp;title_color=f9826c&amp;icon_color=6e40c9&amp;langs_count=10&hide_border=true"
-                alt='languages stats'>
-        </td>
-    </tr>
-</table>
+<div align="center">
+<br>
+<samp>
+  comp sci student, software eng, learner, solver, breaker & fixer<br>
+  low-level, algorithms, electronics, linux, foss, anime, souls-like<br>
+  committed to lifelong learning
+</samp>
+<br>---<br>
+<sup>
+  <q><i><b>
+  I never quite realized... how beautiful this world is.
+  </b></i></q>
+</sup>
+<br><br>
+  <img src="assets/lycoris.gif" width=120 height=60 />
+  <img src="assets/bocchi.gif" width=120 height=60 />
+  <img src="assets/gojo.gif" width=120 height=60 />
+  <img src="assets/alya.gif" width=120 height=60 />
+  <img src="assets/frieren.gif" width=120 height=60 />
+  <img src="assets/slayer.gif" width=120 height=60 />
+</div>
