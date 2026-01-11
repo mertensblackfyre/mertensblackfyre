@@ -1,3 +1,1 @@
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mertensblackfyre&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+<a href="https://github.com/mertensblackfyre" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertensblackfyre&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
